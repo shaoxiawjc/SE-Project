@@ -4,6 +4,8 @@
 [![open issues](https://img.shields.io/github/issues/shaoxiawjc/SE-Project.svg)](https://github.com/shaoxiawjc/SE-Project/issues)
 [![closed issues](https://img.shields.io/github/issues-closed-raw/shaoxiawjc/SE-Project.svg)](https://github.com/shaoxiawjc/SE-Project/issues)
 [![PRs](https://img.shields.io/github/issues-pr/shaoxiawjc/SE-Project.svg)](https://github.com/shaoxiawjc/SE-Project/pulls)
+[![closed PRs](https://img.shields.io/github/issues-pr-closed/shaoxiawjc/SE-Project.svg)](https://github.com/shaoxiawjc/SE-Project/pulls?q=is%3Apr+is%3Aclosed)
+
 
 </div>
 
