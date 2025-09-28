@@ -19,4 +19,28 @@
 
 ## 前端：
 
-吴限 Ciallo ～(∠・ω< )⌒★
+## 🫨 吴限
+
+<table>
+<tr>
+<td width="100px">
+  <img src="./assets/avatar_wux.jpg" alt="avatar_wux" width="180" style="border-radius: 50%;"/>
+</td>
+<td>
+
+### 📝 基本介绍
+
+我是吴限，来自计算机与大数据学院的计算机类专业
+
+### 🚀 技能
+
+- 熟悉 **JS**等编程语言，有一定的编程基础
+- 掌握 **Linux 基本操作**、Git 版本管理
+
+### 🎯 未来三年规划
+
+未来三年我准备 **就业**，目的是为了了解业内技术，实现自我价值。
+
+</td>
+</tr>
+</table>
