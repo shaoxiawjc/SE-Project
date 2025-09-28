@@ -6,7 +6,6 @@
 [![PRs](https://img.shields.io/github/issues-pr/shaoxiawjc/SE-Project.svg)](https://github.com/shaoxiawjc/SE-Project/pulls)
 [![closed PRs](https://img.shields.io/github/issues-pr-closed/shaoxiawjc/SE-Project.svg)](https://github.com/shaoxiawjc/SE-Project/pulls?q=is%3Apr+is%3Aclosed)
 
-
 </div>
 
 ---
@@ -21,11 +20,33 @@
 
 ## 前端：
 
-吴限 Ciallo ～(∠・ω< )⌒★
+## 👤 吴限 Ciallo ～(∠・ω< )⌒★
 
+<table>
+<tr>
+<td width="100px">
+  <img src="./assets/avatar_wux.jpg" alt="avatar_wux" width="180" style="border-radius: 50%;"/>
+</td>
+<td>
+
+### 📝 基本介绍
+
+我是吴限，来自计算机与大数据学院的计算机类专业
+
+### 🚀 技能
+
+- 熟悉 **JS**等编程语言，有一定的编程基础
+- 掌握 **Linux 基本操作**、Git 版本管理
+
+### 🎯 未来三年规划
+
+未来三年我准备 **就业**，目的是为了了解业内技术，实现自我价值。
+
+</td>
+</tr>
+</table>
 
 ## 后端：
-
 
 ## 👤 吴金超
 
@@ -37,23 +58,22 @@
 <td>
 
 ### 📝 基本介绍
+
 我是吴金超，来自计算机与大数据学院的计算机类专业
 
 ### 🚀 技能
+
 - 熟悉 **Java、Python**等编程语言，有一定的编程基础
 - 掌握 **Linux 基本操作**、Git 版本管理
 - 热爱 **后端开发，MLSys**，对 AI 等技术有兴趣
 - 自我评估：希望能继续学习 AI 和软件开发的相关知识。
 
 ### 🎯 未来三年规划
+
 未来三年我准备 **就业**，目的是为了了解业内技术，实现自我价值。
 
 </td>
 </tr>
 </table>
 
-
 ## 产品经理
-
-
-
