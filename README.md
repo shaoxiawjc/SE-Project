@@ -121,4 +121,37 @@ Just Call me InF Or zhuningyu（朱宁宇）， It's ok 😆
 </tr>
 </table>
 
+## 👤 叶禹瞳
+
+<table>
+<tr>
+<td width="100px">
+  <img src="https://avatars.githubusercontent.com/u/141346160?v=4" alt="avatar" width="180" style="border-radius: 50%;"/>
+</td>
+<td>
+
+
+
+### 📝 基本介绍
+
+计算机与大数据学院计算机类学生。
+
+### 🚀 技能
+
+熟悉python基础知识，熟悉PyTorch、NumPy等科学计算与深度学习库。
+
+熟悉C/C++相关知识
+
+掌握HTML5/CSS3，了解响应式设计基础。
+
+了解CNN、RNN等经典网络模型原理，具备使用PyTorch框架完成模型搭建、训练、评估的经验。
+
+### 🎯 未来三年规划
+
+读研提升自己学历。
+
+</td>
+</tr>
+</table>
+
 ## 产品经理
