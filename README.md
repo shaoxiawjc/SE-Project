@@ -73,8 +73,7 @@ Just Call me InF Or zhuningyu（朱宁宇）， It's ok 😆
 </tr>
 </table>
 
-# gufu
-My personal repository
+
 ## 👤 翁俊龙
 
 <table>
