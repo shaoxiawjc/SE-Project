@@ -121,4 +121,53 @@ Just Call me InF Or zhuningyu（朱宁宇）， It's ok 😆
 </tr>
 </table>
 
+
+## 👤 余思衡
+
+<table>
+<tr>
+<td width="100px">
+  <img src="https://avatars.githubusercontent.com/u/143899446?s=400&u=6990e3c0ff5cc9af585475901076069ea7dee711&v=4" alt="avatar" width="180" style="border-radius: 50%;"/>
+</td>
+<td>
+
+### 📝 基本介绍
+福州大学西二在线工作室正式成员，2024届西二在线 java 组组长，2025届西二在线总负责人，
+喜欢一些休闲类游戏
+
+### 🚀 技能与成就
+
+- 技能
+
+**Java基础**：熟悉Java基础知识，熟悉多线程并发。
+
+**数据库**：熟练使用 MySQL、PostgreSQL、Redis 及常见的优化手段。
+
+**框架/组件**：熟悉 Spring、MyBatis 等主流开发框架，并手写过 SSM 全家桶(icon:github 478320/SpringByHand)，
+了解 WebFlux 框架编写，了解Langchain4j，SpringAI，SpringAIMcp等主流 AI 开发框架，了解 WebSocket 协议，
+了解 Sofa，Dubbo，Motan，Grpc 等一系列 Rpc 框架的使用，了解消息队列 RabbitMQ, Kafka 的使用和原理。
+
+**分布式**：了解分布式系统的设计与应用，微服务项目的分布式部署(icon:github 478320/TTAG)。
+
+**AI**：了解 MCP 的客户端使用，了解 SpringAI，Langchain4j 框架应用，Agent 智能编排等
+
+- 成就
+
+在 **Apache ShenYu** 社区提交了共计 **18** 个  Pr，包括以下内容
+新增插件 **AiRequestTransformer** ，**Alert** 和 **Apidoc** 命名空间适配，新增功能 **mcp-auto-register** ，
+新增文章 **ShenYu Mcp** 插件源码分析，以及一系列的bug修复工作(icon:github apache/shenyu）(icon:github apache/shenyu-website)
+
+在 2025 年 OSPP 开源之夏活动中中选并结项，项目名称：Apache ShenYu 代理插件细粒度服务配置，项目编号 2562f0341，
+
+
+### 🎯 未来三年规划
+未来半年，优先在深圳投递简历，并成为Apache Shenyu社区committer
+，计划在大三下拿到两份offer
+
+大四上开始准备秋招，开始正式准备求职就业
+
+</td>
+</tr>
+</table>
+
 ## 产品经理
