@@ -255,4 +255,42 @@ Just Call me InF Or zhuningyu（朱宁宇）， It's ok 😆
 </tr>
 </table>
 
+
+
+## 👤 王浩楠
+
+<table>
+<tr>
+<td width="100px">
+  <img src="https://avatars.githubusercontent.com/u/146100650?u=2723b01d1cc118f5013fc410b2060e97e9be970a&v=4&size=64" alt="avatar" width="180" style="border-radius: 50%;"/>
+</td>
+<td>
+
+
+### 📝 基本介绍
+福州大学2023级计算机与大数据学院计算机科学与技术专业的一名普信男大学生
+
+### 🚀 技能
+“精通”c/c++，"精通"java
+
+可以简单应用MySQL数据库，利用SQL语句使用数据库
+
+可以初步嵌入使用MySQL数据库
+
+了解JavaWeb的知识
+
+可以初步运用MyBatis，Spring框架
+
+### 🎯 未来三年规划
+
+完整编写一个可应用的计算机软件
+
+读研深造
+
+</td>
+</tr>
+</table>
+
+
+
 ## 产品经理
