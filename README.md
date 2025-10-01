@@ -25,7 +25,9 @@
 <table>
 <tr>
 <td width="100px">
-  <img src="./assets/avatar_wux.jpg" alt="avatar_wux" width="180" style="border-radius: 50%;"/>
+  <a href="https://github.com/zhuningyu3">
+    <img src="./assets/avatar_wux.jpg" alt="avatar_wux" width="180" style="border-radius: 50%;"/>
+  </a>
 </td>
 <td>
 
@@ -48,8 +50,7 @@ Just Call me InF Or zhuningyu（朱宁宇）， It's ok 😆
 - 熟练使用**Antd，Arco，Element Plus**等常见组件库
 - 熟练使用**Tailwind CSS，Sass，Less**等样式解决方案还原 UI
 - 熟悉**Git**版本控制工具，了解基本的分支管理和协作开发
-
-* 了解**WebPack，Vite**等常见构建工具及其相关原理
+- 了解**WebPack，Vite**等常见构建工具及其相关原理
 
 ### 🤲 获奖经历
 
