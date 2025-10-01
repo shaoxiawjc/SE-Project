@@ -125,6 +125,41 @@ Just Call me InF Or zhuningyu（朱宁宇）， It's ok 😆
 </tr>
 </table>
 
+## 👤 魏昀
+
+<table>
+<tr>
+<td width="100px">
+  <img src="https://avatars.githubusercontent.com/u/144693807?v=4" alt="avatar" width="180" style="border-radius: 50%;"/>
+</td>
+<td>
+
+### 📝 基本介绍
+
+可以叫我的英文名 lee 😆
+
+目前福州大学计算机科学与技术大三在读
+
+对前端有兴趣
+
+喜欢玩火影忍者🤗
+
+### 🚀 技能
+
+熟练掌握c/c++相关知识
+
+初步掌握Java Python
+
+对计算机网络，算法与数据结构有独特理解
+
+
+### 🎯 未来三年规划
+继续了解计算机知识，打算考研提升自己
+
+</td>
+</tr>
+</table>
+
 
 ## 后端：
 
