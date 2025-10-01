@@ -248,6 +248,10 @@ Just Call me InF Or zhuningyu（朱宁宇）， It's ok 😆
 ### 🚀 技能
 “精通”c/c++，"精通"java
 
+可以简单应用MySQL数据库，利用SQL语句使用数据库
+
+可以初步嵌入使用MySQL数据库
+
 了解JavaWeb的知识
 
 可以初步运用MyBatis，Spring框架
