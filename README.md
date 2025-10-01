@@ -100,6 +100,31 @@ Just Call me InF Or zhuningyu（朱宁宇）， It's ok 😆
 </tr>
 </table>
 
+## 👤 翁思铖 
+
+<table>
+<tr>
+<td width="100px">
+  <img src="https://avatars.githubusercontent.com/u/144700367?s=400&u=e9b5a3e0449f0a840974c8b418061d5de2223e5a&v=4）" alt="avatar" width="180" style="border-radius: 50%;"/>
+</td>
+<td>
+
+### 📝 基本介绍
+福州大学计算机科学与技术专业学生，吴限大大的忠实粉丝～(∠・ω< )⌒★。
+
+### 🚀 技能
+- 初步掌握 Python、Java
+- 较为精通c++，从入门到入土
+- 具备良好的算法和数据结构基础
+
+### 🎯 未来三年规划
+- 先过英语六级QAQ
+- 准备考研提升学历
+
+</td>
+</tr>
+</table>
+
 
 ## 后端：
 
