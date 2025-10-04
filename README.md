@@ -343,11 +343,14 @@ Just Call me InF Or zhuningyu（朱宁宇）， It's ok 😆
 ### 📝 基本介绍
 
 -福州大学计算机科学与技术专业大三学生。
+
 -fps重度爱好者，CS大地球。
 
 ### 🚀 技能
 -熟练掌握C,C++。
+
 -初步掌握 Python、Java。
+
 -擅长制作PPT。
 
 ### 🎯 未来三年规划
