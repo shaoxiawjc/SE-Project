@@ -327,6 +327,29 @@ Just Call me InF Or zhuningyu（朱宁宇）， It's ok 😆
 </tr>
 </table>
 
+## 👤 余佳兴
+
+<table>
+<tr>
+<td width="100px">
+  <img src="https://avatars.githubusercontent.com/u/231824123?v=4" alt="avatar" width="180" style="border-radius: 50%;"/>
+</td>
+<td>
+
+### 📝 基本介绍
+福州大学计算机专业类的一名学生
+
+### 🚀 技能
+掌握C/C++， Python， Java
+
+### 🎯 未来三年规划
+做好毕业设计，完成大学学业
+
+梭哈11408
+
+</td>
+</tr>
+</table>
 
 
 ## 产品经理
