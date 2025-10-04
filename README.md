@@ -336,7 +336,7 @@ Just Call me InF Or zhuningyu（朱宁宇）， It's ok 😆
 <table>
 <tr>
 <td width="100px">
-  <img src="https://avatars.githubusercontent.com/u/146504980?v=4" alt="avatar" width="180" style="border-radius: 50%;"/>
+  <img src="https://avatars.githubusercontent.com/u/146504980?s=400&u=2df2f50b13ed1c6e590797e5866f6c4ad7d8563e&v=4" alt="avatar" width="180" style="border-radius: 50%;"/>
 </td>
 <td>
 
